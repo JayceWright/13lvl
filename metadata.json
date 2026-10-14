@@ -1,0 +1,6 @@
+{
+  "name": "Фортуна на 13 лет",
+  "description": "Интерактивный подарок-испытание от Jayce на 13-летие: проверка фортуны, тот самый 1 миллиметр и главный сюрприз.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
